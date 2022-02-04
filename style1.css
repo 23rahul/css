@@ -1,0 +1,8 @@
+#background{
+    background-color: cyan;
+    background-image: url('IMG_20210614_211717.jpg');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 100px 200px;
+    background-attachment: fixed;
+}

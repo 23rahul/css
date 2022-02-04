@@ -1,0 +1,13 @@
+.inline{
+    border: 2px solid red;
+    /* display: block; */
+    /* display: inline; */
+    display: inline-block;
+    margin-top: 10px;
+    width: 10%;
+    height: 100px;
+}
+#none{
+    /* display: none; */
+    visibility: hidden;
+}
